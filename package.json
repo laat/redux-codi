@@ -1,6 +1,6 @@
 {
   "name": "redux-codi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Redux middleware with dependency injection and async control flow",
   "keywords": [
     "dependency injection",
