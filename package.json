@@ -19,8 +19,10 @@
     "url": "https://github.com/laat"
   },
   "files": [
-    "lib/index.js"
+    "lib",
+    "*.js"
   ],
+  "main": "lib/index.js",
   "repository": "laat/redux-codi",
   "scripts": {
     "lint": "eslint src",
